@@ -1,4 +1,4 @@
-![Banner](/banner.png)
+![Banner](https://github.com/chrisom79/chrisom79/blob/master/banner.png)
 
 <!--
 **chrisom79/chrisom79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
