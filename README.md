@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on IBM
+🌱 I’m currently learning React, Fundamentals of Architecture and Reactive Spring
+📫 How to reach me... Twitter: @chrisom, Email: omar.christian@gmail.com
