@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on IBM  
-🌱 I’m currently learning Fundamentals of Architecture and Kotlin
-🧑‍🤝‍🧑 I'm currently collaborating in Guadalajara Java User Group, JConf Mexico, Java Fundamentalks LATAM, Jakarta en Español.
+🌱 I’m currently learning Fundamentals of Architecture and Kotlin  
+🧑‍🤝‍🧑 I'm currently collaborating in Guadalajara Java User Group, JConf Mexico, Java Fundamentalks LATAM, Jakarta en Español  
 📫 How to reach me... Twitter: @chrisom, Email: chrisom@protonmail.com
 
