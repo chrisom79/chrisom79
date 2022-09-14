@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on ORacle  
+🔭 I’m currently working on Oracle  
 🌱 I’m currently learning Fundamentals of Architecture and Kotlin  
 🧑‍🤝‍🧑 I'm currently collaborating in Guadalajara Java User Group, JConf Mexico, Posadev, Java Fundamentalks LATAM, Jakarta en Español  
 📫 How to reach me... Twitter: @chrisom, Email: chrisom@protonmail.com
